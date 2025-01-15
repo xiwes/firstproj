@@ -1,1 +1,1 @@
-https://github.com/xiwes/firstproj
+https://github.com/xiwes/ono-tebe-nado-fd
