@@ -14,8 +14,8 @@ body {
 
 body {
   font-family: Raleway, sans-serif;
-  background-color: #f4f4f4;
-  color: #333;
+  background-color: #ffffff;
+  color: #000000;
 }
 
 h1,
@@ -50,22 +50,4 @@ img {
 button {
   font: white;
   cursor: pointer;
-}
-
-.section-padding {
-  padding: 20px;
-}
-
-.section-margin {
-  margin: 20px 0;
-}
-
-.overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0, 0, 0, 0.6);
-  z-index: 1;
 }
